@@ -1,11 +1,5 @@
-# rst写作规范
+---
+title: "Welcome to my website!"
+---
 
-## rst标题
-
-## rst图片
-
-## rst表格
-
-## rst公式
-
-## rst引用
+You're up and running!
