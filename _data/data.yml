@@ -7,39 +7,39 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 李琪
+    tagline: 资深技术文档工程师 & 内容策略师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: liqi_edinburgh@163.com
+    phone: 18612544175
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: 
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: 英语
+          level: 6级 IELTS 6.5
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
@@ -56,17 +56,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      10+ years of extensive experiences in the roles of content strategist, writer, editor, technical support, and even software developer. 
+      
+      I am able to take my programming skills and apply them to content design and writing, putting myself in a position where I feel I'd be valuable in both a hands-on capacity and in a position where lucid, straight forward content are needed for a variety of audiences.
+      
+      Now, I am keen on developing content strategies to engage key audiences and creating story-driven content to tie to the experiences calls for.
+      
+      I am passionate about writing. Over 8+ years of experience creating easy-to-understand content and writing and editing high-quality technical publications that build effective interactions between authors, readers, and the technical information that bridges them.       
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
+        university: University of Edinburgh
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,8 +77,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: 计算机科学与技术
+        university: 河北科技师范学院
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -90,9 +91,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: 资深技术文档工程师
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: 寒武纪科技
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,9 +106,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
+      - role: 资深内容策略师
         time: 2014 - 2015
-        company: Google, London
+        company: 阿里云
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -130,11 +131,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
