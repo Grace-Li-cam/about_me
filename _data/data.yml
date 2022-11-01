@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 李琪
@@ -35,22 +35,16 @@ sidebar:
         - idiom: 英语
           level: 6级 IELTS 6.5
 
-        - idiom: 
-          level: 
-
-        - idiom: 
-          level: 
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 旅行
           link:
 
-        - item: Snowboarding
+        - item: 阅读
           link:
 
-        - item: Cooking
+        - item: 跑步
           link:
 
 career-profile:
@@ -66,8 +60,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of Edinburgh
+      - degree: 计算机科技硕士学位
+        university: 英国爱丁堡大学
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -77,7 +71,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: 计算机科学与技术
+      - degree: 计算机科学与技术学士学位
         university: 河北科技师范学院
         time: 2007 - 2011
         details: |
