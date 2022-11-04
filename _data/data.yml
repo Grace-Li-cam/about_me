@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: qili_edinburgh@163.com
+    email: liqi_edinburgh@163.com
     phone: 18612544175
     timezone: 
     citizenship:
@@ -48,15 +48,8 @@ sidebar:
           link:
 
 career-profile:
-    title: 简介
+    title: Career Profile
     summary: |
-      10+ 年英文技术文档和市场内容写作经验，具备较强英语听说读写技能；
-      神经网络加速库算子开发者手册、芯片硬件手册、车载芯片用户手册、视觉处理算子文档等写作经验；
-      云计算行业经验，具有阿里云ACA云计算认证证书；
-      Java, SQL 项目编程经验和技术支持工作经验；
-      
-      我热爱写作。超过8年的技术文档工作经验，主要包括创建易于理解的内容架构以及撰写和编辑高质量的技术内容。
-      
       10+ years of extensive experiences in the roles of content strategist, writer, editor, technical support, and even software developer. 
       
       I am able to take my programming skills and apply them to content design and writing, putting myself in a position where I feel I'd be valuable in both a hands-on capacity and in a position where lucid, straight forward content are needed for a variety of audiences.
@@ -65,161 +58,135 @@ career-profile:
       
       I am passionate about writing. Over 8+ years of experience creating easy-to-understand content and writing and editing high-quality technical publications that build effective interactions between authors, readers, and the technical information that bridges them.       
 education:
-    title: 教育背景
+    title: Education
     info:
-      - degree: 计算机科技硕士学位 MSc Computer Science
-        university: 英国爱丁堡大学 The University of Edinburght, UK
-        time: 2009/9 - 2011/11
+      - degree: 计算机科技硕士学位
+        university: 英国爱丁堡大学
+        time: 2011 - 2012
         details: |
-          - 较强英语阅读、写作能力：在校期间阅读大量英文专业论文，并针对相关论文写英文评论。
-	      - 国际团队合作经验：在校期间有来自各国学生的项目合作经验。
-
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - degree: 计算机科学与技术学士学位
         university: 河北科技师范学院
-        time: 2005/9 - 2009/7
+        time: 2007 - 2011
         details: |
-          - 全系综合排名第一。 
-        - 毕业论文：工资管理系统（分析系统需求，自学使用++完成）。
-        - 在校期间连续六次获得院奖学金。
-        - 省级优秀毕业生。
-
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
-    title: 工作经验
+    title: Experiences
     info:
       - role: 资深技术文档工程师
-        time: 2019年8月 - 至今
+        time: 2015 - Present
         company: 寒武纪科技
         details: |
-          - 负责芯片硬件用户手册及车载芯片文档的编辑、评审及发布。
-          - 深度了解开发者的需求。负责视觉处理算子、加速库等10本开发者手册。
-          - 组织并推动神经网络加速算子和运行实时库开发者手册优化项目。
-          
-            - 包括170+个加速算子和160+个运行实时库API的内容优化。
-            - 重点负责API模板制定、竞品文档分析、内容优化评审、英文内容重构及优化、与30+研发工程师的沟通。
-          - 对C、C++、Python开发语言深入了解，掌握相关API文档的写作规范，并制定API文档模板。
-          - 被评为2020年度质量标兵、蝉联全公司code review总评论数top 1（至今）、多次获得公司“火眼金睛”奖。
-          - 熟练掌握RST、Markdown语法。
-          - 熟练使用Sphinx、Doxygen、Latex、Breathe、Gitlab。
-      - role: 资深市场内容运营
-        time: 2018/2 - 2019年8月
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: 资深内容策略师
+        time: 2014 - 2015
         company: 阿里云
         details: |
-          - 云产品市场推广
-          
-            - 负责阿里云所有产品海外线上推广。
-            - 制定并执行产品线上推广目标和策略，其中包括新产品线上推广策略。
-            - 制定并创作不同类型的内容进行产品内容营销，其中包括博文、白皮书、电子书、线上研讨会、信息图标和视频。
-            - 针对线上产品购买数据，重新设计产品详情页，提供客户产品购买转化率。
-          - 数字化营销
-          
-            - 负责阿里云海外线上大型活动，其中包括2018年阿里云海外双十一和2019年海外春季大促。
-            - 制定活动的目标、策略以及产品售卖策略。
-            - 负责活动线上页面的内容策略、架构、写作及发布。
-            - 制定活动内容营销策略和站内站外推广策略、EDM写作等。
-          - 阿里云国际站官网产品内容运营。
-          - 1年内负责并执行创建了20+ 产品聚合页、品牌、活动等页面。
-          - 负责页面内容策略、架构、写作以及页面项目管理。
-          - 通过数据相关工具，创建活动、页面等数据报告。并根据报告进行数据分析，制定和调整数字营销策略。
-          - 负责内容分析及研究，其中包括客户画像、竞品分析等。
-
-      - role: 资深英文技术文档工程师
-        time: 2015/8 - 2018/2
-        company: Zuora
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-          - 开发大型和复杂产品的文档写作。负责制定文档写作计划，文档写作和发布。
-        - 曾负责一个大型项目，包括超过50篇新文档的写作和40篇已有文档的修改和完善。
-        - 熟练掌握REST API和SOAP API 面向开发人员的技术文档写作。
-        - 负责发布每月Release Notes。参与开发Release Notes模板的开发以满足客户需要。
-        - 具有同时管理多个项目文档写作能力。
-        - 从用户角度独立测试新功能的使用，确保文档的准确性和完整性。
-        - 跨国团队工作经验：写作团队有一半来自英国和美国。
-        - 参与Agile产品开发模式；熟练使用JIRA来跟踪文档进度。
-        - 负责培训新员工。
-        - 熟练以下使用写作工具：
-
-            MindTouch, Swagger, Redoc, GitHub, Snagit, OmniGraffle, Postman, SOAPUI, Google Docs, Sheet, Slides, Walkme, Camtasia
-
-      - role: 资深英文技术文档工程师
-        time: 2011/12 - 2015/8
-        company: 文思海辉	
-        details: |
-        - 负责完成了16个项目，近100份文档从计划、构架、写作、审校到发布的所有工作。
-        - 项目内容包括文档新功能的构架和写作、文档的维护、架构写作新增文档。文档类别涵盖 user guides, systems administration guides，technical release notes，readme 等。
-        - 熟练掌握使用DITA进行内容管理和架构。
-        - 熟练使用SnagIt制图工具设计和、制作和截取文档图样的图表。
-        - 熟练使用发布工具制作文档最终版本为 PDF, HTML 和 CHM。
-        - 善于沟通。在工作中和来自中国、美国、英国、印度的同事、开发、QA团队建立很好的工作关系。
-        - 管理和培训5个并给予其他同事关于写作架构、格式、规范的帮助。培训新员工在3个月内能快速胜任工作。
-        - 合理分配时间，在时间紧迫的情况下能同时承担多个项目的工作。
-        - 熟练以下使用写作工具：
- 
-            Adobe FrameMaker, WebWorks ePublisher, xMetal, Adobe Acrobat, Microsoft Word/Office, UltraEdit, WebWorks ePbulisher Express, Microsoft HTML Help Workshop, TortoiseSVN, JIRA, XMental, CMS client tools, and Author Assistant；
-
-      - role: 英文技术支持工程师
-        time: 2011/07 - 2011/12
-        company: 华讯网络	
-        details: |
-        - 为全球知名公司（Citi, Bank of America, Morgan Stanley，BT等）提供优质服务。
-	      - 通过电话、邮件、网络的形式为用户提供网络产品和网络系统的技术支持。
-	      - 全英文工作环境，提高了英文的听说读写能力。
-	      - 锻炼了在高压力环境下的同时处理多任务的工作能力。
-
-      - role: 教育顾问
-        time: 2011/04 - 2011/05
-        company: Premium Education, London
-        details: |
-        - 与各国客户通过电话和面对面沟通了解他们的需求。
-	      - 帮助客户编辑和优化personal statements等资料帮助他们完成英国学校的入学申请。
-
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 projects:
-    title: 培训
+    title: Projects
     intro: >
       
     assignments:
-      - title: 2013年11月 DITA 专业培训、简约写作培训。
-        link: 
-        tagline: 
-
-      - title: 2017年12月, 2016年4月 Zuora 领导力美国培训。
-        link: 
-        tagline: 
-
       - title: 
-        link: 
-        tagline: 
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: 
-        link: 
-        tagline: 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: 
-        link: 
-        tagline: 
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: 证书
+    title: Publications
     intro: |
-      
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: 阿里云云计算基础认证证书 (ACA)
-        link: 
-        authors: 
-        conference: 
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: 
-        link: 
-        authors: 
-        conference: 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: RST
-        level: 100%
+      - name: Python & Django
+        level: 98%
 
-      - name: Markdown
-        level: 80%
+      - name: Javascript & jQuery
+        level: 98%
 
+      - name: Angular
+        level: 98%
 
+      - name: HTML5 & CSS
+        level: 95%
 
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
