@@ -75,15 +75,13 @@ education:
             - 国际团队合作经验：在校期间有来自各国学生的项目合作经验。         
       - degree: 计算机科学与技术学士学位
         university: 河北科技师范学院
-        time: 2007 - 2011
+        time: 2005/9 - 2009/7
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 全系综合排名第一。 
+          - 毕业论文：工资管理系统（分析系统需求，自学使用++完成）。
+          - 在校期间连续六次获得院奖学金。
+          - 省级优秀毕业生。
+
 experiences:
     title: Experiences
     info:
