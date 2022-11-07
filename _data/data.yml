@@ -35,6 +35,16 @@ sidebar:
         - idiom: 英语
           level: 6级 IELTS 6.5
 
+    skills:
+      title: Skills &amp; Proficiency
+    
+      toolset:
+        - name: Python & Django
+          level: 98%
+    
+        - name: Javascript & jQuery
+          level: 98%
+            
     interests:
       title: Interests
       info:
