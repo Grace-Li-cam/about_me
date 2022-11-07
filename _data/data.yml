@@ -167,29 +167,17 @@ experiences:
             - 与各国客户通过电话和面对面沟通了解他们的需求。     
             - 帮助客户编辑和优化personal statements等资料帮助他们完成英国学校的入学申请。            
 projects:
-    title: Projects
+    title: 培训
     intro: >
       
     assignments:
-      - title: 
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 2017年12月、2016年4月 在美国旧金山参加Zuora 领导力培训。
+        link: "
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title:  2013年11月 参加美国分公司负责人在北京举办的DITA培训以及简约写作培训。
+        link: 
+        tagline: 
 
 publications:
     title: Publications
