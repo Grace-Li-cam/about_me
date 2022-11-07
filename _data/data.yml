@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 李琪
-    tagline: 资深技术文档工程师 & 内容策略师
+    tagline: 资深技术文档工程师 & 内容策略
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,8 +32,8 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: 英语
-          level: 6级 IELTS 6.5
+        - idiom: English
+          level: CET 6 IELTS 6.5
 
     skills:
       title: Skills &amp; Proficiency
@@ -48,13 +48,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 旅行
+        - item: Travel
           link:
 
-        - item: 阅读
+        - item: Reading
           link:
 
-        - item: 跑步
+        - item: Sports
           link:
 
 career-profile:
@@ -66,14 +66,7 @@ career-profile:
       Java, SQL 项目编程经验和技术支持工作经验；
       
       我热爱写作。超过8年的技术文档工作经验，主要包括创建易于理解的内容架构以及撰写和编辑高质量的技术内容。
-      
-      10+ years of extensive experiences in the roles of content strategist, writer, editor, technical support, and even software developer. 
-      
-      I am able to take my programming skills and apply them to content design and writing, putting myself in a position where I feel I'd be valuable in both a hands-on capacity and in a position where lucid, straight forward content are needed for a variety of audiences.
-      
-      Now, I am keen on developing content strategies to engage key audiences and creating story-driven content to tie to the experiences calls for.
-      
-      I am passionate about writing. Over 8+ years of experience creating easy-to-understand content and writing and editing high-quality technical publications that build effective interactions between authors, readers, and the technical information that bridges them.           
+                
 education:
     title: 教育背景
     info:

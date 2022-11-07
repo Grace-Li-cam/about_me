@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Qi Li
+    tagline: Senior Technical Writer & Content Strategist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,12 +56,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      10+ years of extensive experiences in the roles of content strategist, writer, editor, technical support, and even software developer. 
+      
+      I am able to take my programming skills and apply them to content design and writing, putting myself in a position where I feel I'd be valuable in both a hands-on capacity and in a position where lucid, straight forward content are needed for a variety of audiences.
+      
+      Now, I am keen on developing content strategies to engage key audiences and creating story-driven content to tie to the experiences calls for.
+      
+      I am passionate about writing. Over 8+ years of experience creating easy-to-understand content and writing and editing high-quality technical publications that build effective interactions between authors, readers, and the technical information that bridges them. 
 education:
     title: Education
     info:
