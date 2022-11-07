@@ -86,20 +86,13 @@ experiences:
     title: 工作经验
     info:
       - role: 资深技术文档工程师
-        time: 2019年8月 - 至今
+        time: 2019/8 - 至今
         company: 寒武纪科技
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+         details: |
+            - 全系综合排名第一。
+            - 毕业论文：工资管理系统（分析系统需求，自学使用C++完成）。       
+            - 在校期间连续六次获得院奖学金。       
+            - 省级优秀毕业生。
       - role: 资深内容策略师
         time: 2014 - 2015
         company: 阿里云
