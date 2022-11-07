@@ -48,7 +48,10 @@ sidebar:
     interests:
       title: 爱好
       info:
-        - item: 旅游
+        - item: 写作
+          link:
+          
+       - item: 旅游
           link:
 
         - item: 读书
