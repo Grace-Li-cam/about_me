@@ -30,13 +30,13 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: 语言
       info:
         - idiom: English
           level: CET 6, IELTS 6.5
 
     skills:
-      title: Skills &amp; Proficiency
+      title: 技能
     
       toolset:
         - name: Python & Django
@@ -46,7 +46,7 @@ sidebar:
           level: 98%
             
     interests:
-      title: Interests
+      title: 爱好
       info:
         - item: 旅游
           link:
