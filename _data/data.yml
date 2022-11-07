@@ -81,7 +81,17 @@ education:
             - 毕业论文：工资管理系统（分析系统需求，自学使用C++完成）。       
             - 在校期间连续六次获得院奖学金。       
             - 省级优秀毕业生。       
-
+      - degree: 计算机科学与技术学士学位
+        university: 河北科技师范学院
+        time: 2005/9 - 2009/7
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Experiences
     info:
