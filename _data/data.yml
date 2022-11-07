@@ -150,9 +150,24 @@ experiences:
             - 合理分配时间，在时间紧迫的情况下能同时承担多个项目的工作。               
             - 熟练以下使用写作工具：
 
-              Adobe FrameMaker, WebWorks ePublisher, xMetal, Adobe Acrobat, Microsoft Word/Office, UltraEdit, WebWorks ePbulisher Express, Microsoft HTML Help Workshop, TortoiseSVN, JIRA, XMental, CMS client tools, Author Assistant              
-      - role: 资深内容策略师
-        time: 2014 - 2015
+              Adobe FrameMaker, WebWorks ePublisher, xMetal, Adobe Acrobat, Microsoft Word/Office, UltraEdit, WebWorks ePbulisher Express, Microsoft HTML Help Workshop, TortoiseSVN, JIRA, XMental, CMS client tools, Author Assistant            
+      - role: 英文技术支持工程师
+        time: 2011/07 - 2011/12
+        company: 华讯网络
+        details: |
+            - 为全球知名公司（Citi, Bank of America, Morgan Stanley，BT等）提供优质服务。     
+            - 通过电话、邮件、网络的形式为用户提供网络产品和网络系统的技术支持。
+            - 全英文工作环境，提高了英文的听说读写能力。
+            - 锻炼了在高压力环境下的同时处理多任务的工作能力。              
+            - 深度学习路由器、交换机等网络技术知识。          
+      - role: 教育顾问
+        time: 2011/04 - 2011/05
+        company: Premium Education，英国伦敦
+        details: |
+            - 与各国客户通过电话和面对面沟通了解他们的需求。     
+            - 帮助客户编辑和优化personal statements等资料帮助他们完成英国学校的入学申请。            
+      - role: 英文技术支持工程师
+        time: 2011/07 - 2011/12
         company: 阿里云
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
