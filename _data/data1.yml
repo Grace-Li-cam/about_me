@@ -71,24 +71,14 @@ education:
             - Experienced doing teamwork with international people;
             - Developed excellent reading, speaking, and writing skills in English;  
             - Presentation and project demonstration skills were improved; 
-      - degree: 计算机科学与技术学士学位
-        university: 河北科技师范学院
+      - degree: Hebei Normal University of Science & Technology
+        university: BSc Computer Science and Technology
         time: 2005/9 - 2009/7
         details: |
-            - 全系综合排名第一。
-            - 毕业论文：工资管理系统（分析系统需求，自学使用C++完成）。       
-            - 在校期间连续六次获得院
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Dissertation: Salary Management System in VC++ (studied C++ language by myself and got 90% grade);
+            - Good academic background: rank 1/59, and having C programming study which got 90 out of 100;      
+            - Win the scholarship six times in a row;
+
 experiences:
     title: Experiences
     info:
