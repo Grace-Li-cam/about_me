@@ -165,34 +165,23 @@ projects:
 
 
 publications:
-    title: Publications
+    title: Certificates 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Alibaba Cloud Certified Associate (Elastic Computing)
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Latex
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Sphinx
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: RST
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: DITA
+        level: 80%
