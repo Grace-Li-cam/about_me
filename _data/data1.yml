@@ -112,78 +112,57 @@ experiences:
             - Using measurement tools to provide reports on metrics, and use these insights to optimize future digital content.
             - Content research including customer analysis, content gap analysis, and competitors’ analysis.
             - Experienced in Tools: Axure, Snagit
-      - role: 资深英文技术文档工程师
+      - role: Senior Technical Writer
         time: 2015/8 - 2018/2
         company: Zuora
         details: |
-            - 开发大型和复杂产品的文档写作。负责制定文档写作计划，文档写作和发布。     
-            - 曾负责一个大型项目，包括超过50篇新文档的写作和40篇已有文档的修改和完善。       
-            - 熟练掌握REST API和SOAP API 面向开发人员的技术文档写作。
-            - 负责发布每月Release Notes。参与开发Release Notes模板的开发以满足客户需要。
-            - 具有同时管理多个项目文档写作能力。        
-            - 从用户角度独立测试新功能的使用，确保文档的准确性和完整性。         
-            - 跨国团队工作经验：写作团队有一半来自英国和美国。         
-            - 参与Agile产品开发模式；熟练使用JIRA来跟踪文档进度。         
-            - 负责培训新员工。         
-            - 熟练以下使用写作工具：
+            - Managed complicated and huge functions and features. Made the documentation plan, wrote, and published the documents. One of the huge projects I did including over 50 new articles writing and 30 existing article updates.     
+            - Responsible for editing and publishing monthly Release Notes. Developed the new Release Notes template and style guide to meet the evolving needs of the company.    
+            - Experienced developing REST API and SOAP API documentation for technical audiences. Managed API document in SwaggerHub.
+            - Worked in a cross-cultural environment and over half of the team are native English speakers.
+            - Took lead in Indian team. Managed and reviewed their documents and gave them constructive suggestions on writing.        
+            - Experienced in Agile product release cycles. Used JIRA for sprint commitments and tracking.      
+            - Participated in multiple Scrum teams and collaborated with the engineering teams to plan the focus and scope of documentation.      
+            - Independently tested software and applied knowledge gained to improving documents and providing recommendations for software improvements.         
+            - Trained and evaluated newly hired staff.         
+            - Experienced in Tools:
 
               MindTouch, Swagger, Redoc, GitHub, Snagit, OmniGraffle, Postman, SOAPUI, Google Docs, Sheet, Slides, Walkme, Camtasia     
-      - role: 资深英文技术文档工程师
+      - role: Senior Technical Writer
         time: 2011/12 - 2015/8
-        company: 文思海辉
+        company: Pacteria 
         details: |
-            - 负责完成了16个项目，近100份文档从计划、构架、写作、审校到发布的所有工作。     
-            - 项目内容包括文档新功能的构架和写作、文档的维护、架构写作新增文档。文档类别涵盖 user guides, systems administration guides，technical release notes，readme 等。     
-            - 熟练掌握使用DITA进行内容管理和架构。
-            - 熟练使用SnagIt制图工具设计和、制作和截取文档图样的图表。
-            - 熟练使用发布工具制作文档最终版本为PDF、HTML和CHM。        
-            - 善于沟通。在工作中和来自中国、美国、英国、印度的同事、开发、QA团队建立很好的工作关系。        
-            - 管理和培训5个并给予其他同事关于写作架构、格式、规范的帮助。培训新员工在3个月内能快速胜任工作。         
-            - 合理分配时间，在时间紧迫的情况下能同时承担多个项目的工作。               
-            - 熟练以下使用写作工具：
+            - Managed documentation projects for six major and ten minor software releases from structure to completion within a fast-paced environment.      
+            - Experienced working directly with globally distributed teams in UK, US, and India.    
+            - Lead in guidance to other writers in styles, formatting and document creation. Trained entry-level writers to competency in three months under intense deadline pressure.
+            - Released almost 100 documents, which includes writing, maintaining, and publishing a suite of documents for user guides, systems administration guides, release notes, and readme. This involves adding new topics to existing books, designing and writing additions, and planning and creating new instructions, procedures, diagrams, and conceptual documentation.
+            - Experienced using minimalist writing and structured authoring principles to maximize searchability, filtering, and content reusability across delivery types, products, and versions.
+            - Experienced designing and writing content using DITA, and content management systems.        
+            - Captured and designed a range of supporting graphics and illustrations, including process flows, charts, screenshots, and other visuals.        
+            - Deliverables included PDF, HTML, and CHM versions with context sensitive help.             
+            - Experienced in Tools:
 
               Adobe FrameMaker, WebWorks ePublisher, xMetal, Adobe Acrobat, Microsoft Word/Office, UltraEdit, WebWorks ePbulisher Express, Microsoft HTML Help Workshop, TortoiseSVN, JIRA, XMental, CMS client tools, Author Assistant            
-      - role: 英文技术支持工程师
+      - role: Technical Support Engineer
         time: 2011/07 - 2011/12
-        company: 华讯网络
+        company: Eccom
         details: |
-            - 为全球知名公司（Citi, Bank of America, Morgan Stanley，BT等）提供优质服务。     
-            - 通过电话、邮件、网络的形式为用户提供网络产品和网络系统的技术支持。
-            - 全英文工作环境，提高了英文的听说读写能力。
-            - 锻炼了在高压力环境下的同时处理多任务的工作能力。              
-            - 深度学习路由器、交换机等网络技术知识。          
-      - role: 教育顾问
+            - Communicated with the global customers in English through Email, telephone and network.     
+            - Wrote down the details of the hardware problems which could help provide problem solutions.
+            - Wrote the solution details to the customers, after detecting the hardware problems.
+            - Provided excellent customer services for the world famous companies (including Citi, Bank of America, Morgan Stanley，BT etc.).                       
+      - role: Education Consultant
         time: 2011/04 - 2011/05
-        company: Premium Education，英国伦敦
+        company: Premium Education, UK
         details: |
-            - 与各国客户通过电话和面对面沟通了解他们的需求。     
-            - 帮助客户编辑和优化personal statements等资料帮助他们完成英国学校的入学申请。       
+            - A big across from software programming to client-focused work. 
+            - Developed strong communication skills ensuring details and expectations are met to the highest standard.       
+            - Helping customers to review and edit their personal statement for applications.      
 projects:
-    title: Projects
+    title: Training
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      Dec 2017, April 2016 Zuora Leadership training in US. </br> Nov 2013 DITA Training, Minimalist Writing.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -191,21 +170,7 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
