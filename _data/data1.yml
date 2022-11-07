@@ -39,13 +39,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Writing
           link:
 
-        - item: Snowboarding
+        - item: Travel
           link:
 
-        - item: Cooking
+        - item: Reading
+          link:
+
+        - item: Sports
           link:
 
 career-profile:
