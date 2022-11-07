@@ -190,20 +190,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Latex
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Sphinx
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: RST
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DITA
+        level: 80%
