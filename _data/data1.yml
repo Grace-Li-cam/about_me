@@ -82,35 +82,43 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: 资深技术文档工程师
-        time: 2019/8 - 至今
-        company: 寒武纪科技
-        details: |
-            - 负责芯片硬件用户手册及车载芯片文档的编辑、评审及发布。
-            - 深度了解开发者的需求。负责视觉处理算子、加速库等10本开发者手册。       
-            - 组织并推动神经网络加速算子和运行实时库开发者手册优化项目。       
-          
-              - 包括170+个加速算子和160+个运行实时库API的内容优化。
-              - 重点负责API模板制定、竞品文档分析、内容优化评审、英文内容重构及优化、与30+研发工程师的沟通。
-            - 对C、C++、Python开发语言深入了解，掌握相关API文档的写作规范，并制定API文档模板。
-            - 被评为2020年度质量标兵、蝉联全公司code review总评论数top 1（至今）、多次获得公司“火眼金睛”奖。
-            - 熟练掌握RST、Markdown语法。
-            - 熟练使用Sphinx、Doxygen、Latex、Breathe、Gitlab。
       - role: Senior Technical Writer
         time: 2019/8 - Present
         company: Cambricon
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Took in charge of user manuals for hardware and car chip;
+            - Deep dive into Neural Network library, ISP, and DSP to deliver API documents;
+            - Took lead in document optimization program, which includes:       
+          
+              - 170+ neural network layers and 160+ runtime APIs.
+              - Responsible for making API document template, analyzing competitors documents, review, rewriting, and communication with engineers;
+            - Master in writing C, C++, Python API references for developers.
+            - Drove and made API writing standards and styles to produce consistent delivery.
+            - Stayed at No. 1 for the most number of code review comments; won "Golden Eye" award many times; Recognized as the best employee of the Quarter in 2020; 
+            - Understanding the basic concepts about hardware components and image processing principles.
+            - Collaborating with over 40 developers in a team to contribute on a single API document.
+            - Expert in Doxygen, Sphinx, Latex, Markdown, RST, and Breathe tools.
+      - role: 资深海外市场内容运营
+        time: 2018/2 - 2019/8
+        company: 阿里云
+        details: |
+            - 云产品市场推广。
+            
+              - 负责阿里云所有产品海外线上推广。
+              - 制定并执行产品线上推广目标和策略，其中包括新产品线上推广策略。
+              - 制定并创作不同类型的内容进行产品内容营销，其中包括博文、白皮书、电子书、线上研讨会、信息图标和视频。
+              - 针对线上产品购买数据，重新设计产品详情页，提供客户产品购买转化率。       
+            - 数字化营销。       
+          
+              - 负责阿里云海外线上大型活动，其中包括2018年阿里云海外双十一和2019年海外春季大促。
+              - 制定活动的目标、策略以及产品售卖策略。
+              - 负责活动线上页面的内容策略、架构、写作及发布。
+              - 制定活动内容营销策略和站内站外推广策略、EDM写作等。
+            - 阿里云国际站官网产品内容运营。
+            - 1年内负责并执行创建了20+ 产品聚合页、品牌、活动等页面。
+            - 负责页面内容策略、架构、写作以及页面项目管理。
+            - 通过数据相关工具，创建活动、页面等数据报告。并根据报告进行数据分析，制定和调整数字营销策略。          
+            - 负责内容分析及研究，其中包括客户画像、竞品分析等。 
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
