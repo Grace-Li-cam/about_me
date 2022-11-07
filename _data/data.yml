@@ -168,29 +168,13 @@ experiences:
             - 帮助客户编辑和优化personal statements等资料帮助他们完成英国学校的入学申请。            
 projects:
     title: 培训
-    intro: 2017年12月、2016年4月 在美国旧金山参加Zuora 领导力培训。</br> 2013年11月 参加美国分公司负责人在北京举办的DITA培训以及简约写作培训。
+    intro: 2017年12月、2016年4月 在美国旧金山参加Zuora 领导力培训。</br> 2013年11月 参加美国公司在北京举办的DITA培训以及简约写作培训。
  
 publications:
-    title: Publications
+    title: 证书
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      阿里云云计算基础认证证书 (ACA)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
