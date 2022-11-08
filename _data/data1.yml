@@ -66,18 +66,18 @@ education:
     info:
       - degree: MSc in Computer Science
         university: The University of Edinburgh, UK
-        time: 2009/9 - 2011/11
+        time: 2009/9 - 2010/11
         details: |
-            - Experienced doing teamwork with international people.
+            - Experienced international teamworks.
             - Developed excellent reading, speaking, and writing skills in English.  
-            - Presentation and project demonstration skills were improved. 
+            - Improved presentation and project demonstration skills. 
       - degree: Hebei Normal University of Science & Technology
         university: BSc Computer Science and Technology
         time: 2005/9 - 2009/7
         details: |
-            - Dissertation: Salary Management System in VC++ (studied C++ language by myself and got 90% grade).
-            - Good academic background: rank 1/59, and having C programming study which got 90 out of 100.      
-            - Win the scholarship six times in a row.
+            - Dissertation: Salary Management System in VC++.
+            - Good academic background: rank 1/59, and having C programming study which got 90 out of 100.
+            - Won the scholarship six times in a row.
 
 experiences:
     title: Experiences
@@ -87,43 +87,43 @@ experiences:
         company: Cambricon
         details: |
             - Took in charge of user manuals for hardware and car chip.
-            - Deep dive into Neural Network library, ISP, and DSP to deliver API documents.
+            - Deep dive into Neural Network library and ISP to deliver API documents.
             - Took lead in document optimization program, which includes:       
           
-              - 170+ neural network layers and 160+ runtime APIs.
-              - Responsible for making API document template, analyzing competitors' documents, review, rewriting, and communication with engineers.
-            - Master in writing C, C++, Python API references for developers.
-            - Drove and made API writing standards and styles to produce consistent delivery.
-            - Stayed at No. 1 for the most number of code review comments; won "Golden Eye" award many times; Recognized as the best employee of the Quarter in 2020. 
-            - Understanding the basic concepts about hardware components and image processing principles.
-            - Collaborating with over 40 developers in a team to contribute on a single API document.
-            - Expert in Doxygen, Sphinx, Latex, Markdown, RST, and Breathe tools.
+              - 170+ Neural Network layers and 160+ runtime APIs.
+              - Responsible for making API document template, analyzing competitors' documents, review, rewriting, and communicating with engineers.
+            - Drove and made C, C++, Python API writing standards and styles to produce consistent delivery.
+            - Stayed at No. 1 for the most number of code review comments; won "Golden Eye" award several times; Recognized as the best employee of the Quarter in 2020. 
+            - Collaborating with over 40 developers in a team to contribute on a single document.
+            - Trained newly hired writers.
+            - Expert in Doxygen, Sphinx, Latex, Markdown, RST, Github, and Breathe.
       - role: Senior Content Strategist
         time: 2018/2 - 2019/8
         company: Alibaba Cloud
-        details: |
-            - Took in charge of technical content review of the product detail pages.       
-            - Learnt, researched, and wrote product core advantages, selling-points, and description.       
-            - Worked with documentation team to improve tutorials and getting started guides.
-            - Redesigned the template of the product detail page to improve purchase conversation rate.
-            - Created product content strategy in different types of content, including blog, webinar, infographics, ebooks, videos, and whitepaper.
+        details: |    
+            - Learnt, researched, and wrote product core advantages, selling-points, and description.  
+            - Redesigned the template of the product detail page to improve purchase conversation rate.            
+            - Created product content strategy in different types of content, including blog, webinar, infographics, ebooks, videos, and whitepaper.           
+            - Took in charge of technical content review of the product detail pages.        
+            - Worked with documentation team to improve tutorials and getting started guides. 
             - Wrote the campaign digital content for landing pages, EDM, and promotions messages on website.          
             - Manage of creation of 20 brand and campaign pages. Responsible for information architecture, copy writing, and project management.        
-            - Using measurement tools to provide reports on metrics, and use these insights to optimize future digital content.
+            - Used measurement tools to provide reports on metrics, and used these insights to optimize future digital content.
             - Content research including customer analysis, content gap analysis, and competitors’ analysis.
+            - Took lead in Marketplace. This involves making strategies to promote all marketplace products and communicating with partners.
             - Experienced in Tools: Axure, Snagit
       - role: Senior Technical Writer
         time: 2015/8 - 2018/2
         company: Zuora
         details: |
-            - Managed complicated and huge functions and features. Made the documentation plan, wrote, and published the documents. One of the huge projects I did including over 50 new articles writing and 30 existing article updates.     
-            - Responsible for editing and publishing monthly Release Notes. Developed the new Release Notes template and style guide to meet the evolving needs of the company.    
-            - Experienced developing REST API and SOAP API documentation for technical audiences. Managed API document in SwaggerHub.
+            - Managed complicated and huge functions. Made the documentation plan, wrote, and published the documents. One of the huge projects I did including over 50 new articles.     
+            - Responsible for editing and publishing monthly Release Notes. Developed the new Release Notes template and style guide to meet the evolving needs of the company. 
+            - Experienced developing REST API and SOAP API documentation for developers. Managed API document in SwaggerHub.
             - Worked in a cross-cultural environment and over half of the team are native English speakers.
             - Took lead in Indian team. Managed and reviewed their documents and gave them constructive suggestions on writing.        
             - Experienced in Agile product release cycles. Used JIRA for sprint commitments and tracking.      
             - Participated in multiple Scrum teams and collaborated with the engineering teams to plan the focus and scope of documentation.      
-            - Independently tested software and applied knowledge gained to improving documents and providing recommendations for software improvements.         
+            - Independently tested software and applied knowledge gained to improving documents and providing recommendations for software improvements. 
             - Trained and evaluated newly hired staff.         
             - Experienced in Tools:
 
@@ -134,7 +134,7 @@ experiences:
         details: |
             - Managed documentation projects for six major and ten minor software releases from structure to completion within a fast-paced environment.      
             - Experienced working directly with globally distributed teams in UK, US, and India.    
-            - Lead in guidance to other writers in styles, formatting and document creation. Trained entry-level writers to competency in three months under intense deadline pressure.
+            - Led in guidance to other writers in styles, formatting and document creation. Trained entry-level writers to competency in three months under intense deadline pressure.
             - Released almost 100 documents, which includes writing, maintaining, and publishing a suite of documents for user guides, systems administration guides, release notes, and readme. This involves adding new topics to existing books, designing and writing additions, and planning and creating new instructions, procedures, diagrams, and conceptual documentation.
             - Experienced using minimalist writing and structured authoring principles to maximize searchability, filtering, and content reusability across delivery types, products, and versions.
             - Experienced designing and writing content using DITA, and content management systems.        
@@ -147,8 +147,8 @@ experiences:
         time: 2011/07 - 2011/12
         company: Eccom
         details: |
-            - Communicated with the global customers in English through Email, telephone and network.     
-            - Wrote down the details of the hardware problems which could help provide problem solutions.
+            - Communicated with the global customers in English through email, telephone, and network.     
+            - Wrote down the details of the hardware problems, which could help provide problem solutions.
             - Wrote the solution details to the customers, after detecting the hardware problems.
             - Provided excellent customer services for the world famous companies (including Citi, Bank of America, Morgan Stanley，BT etc.).                       
       - role: Education Consultant
