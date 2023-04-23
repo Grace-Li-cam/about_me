@@ -59,6 +59,9 @@ sidebar:
           
         - item: 慢跑
           link:
+          
+        - item: 数独
+          link:
 
 career-profile:
     title: 简介

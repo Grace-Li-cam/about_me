@@ -51,6 +51,9 @@ sidebar:
         - item: Jogging
           link:
 
+        - item: Sudoku
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
