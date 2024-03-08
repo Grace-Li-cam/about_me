@@ -85,7 +85,23 @@ experiences:
     title: Experiences
     info:
       - role: Senior Technical Writer
-        time: 2019/8 - Present
+        time: 2023/6 - Present
+        company: Houmo
+        details: |
+            - Established user documentation practices, defining strategies and standards.
+            - Took in charge of user manuals for hardware, software, and solutions, including datasheets, guides, and manuals.
+            - Published 14 documents within the first six months.
+            - Developed documentation templates, writing standards, and release processes to maintain consistency and clarity.
+            - Demonstrated hands-on expertise in driver installation and sample compilation, ensuring document accuracy from a user-centric viewpoint..
+            - Collaborated with cross-functional teams to ensure quality documentation.
+            - Independently studied product hardware specifications to create datasheets and introduction guides.
+            - Proactively collected feedback and executed plans to enhance document quality and user experiences.
+            - Self-studied company technologies and example code to produce accurate documentation.
+            - Established standards for writing C++, C, and Python API documentation.
+            - Expert in Doxygen, Sphinx, Latex, Markdown, RST, Github, and Breathe.
+    info:
+      - role: Senior Technical Writer
+        time: 2019/8 - 2023/5
         company: Cambricon
         details: |
             - Took in charge of user manuals for hardware and car chip.
